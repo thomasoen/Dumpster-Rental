@@ -1,6 +1,6 @@
 # README
 
-TThis is another project made in the rails system. I am creating a site for a[Dumpster Rental ](https://www.dumpsterforrentdayton.com/) in the local area. I am hoping this will be a successful program that will help my client
+TThis is another project made in the rails system. I am creating a site for a [Dumpster Rental ](https://www.dumpsterforrentdayton.com/) in the local area. I am hoping this will be a successful program that will help my client
 
 I have vast experience dealing with my clients in the Dayton area and across the Miami valley
 
